@@ -1,0 +1,26 @@
+/* Gaya Umum */ body { margin: 0; padding: 0; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background-color: #111; color: #f2f2f2; }
+
+header { text-align: center; padding: 40px 20px 20px; background-color: #000; border-bottom: 2px solid #ff6600; }
+
+.logo { width: 100px; border-radius: 50%; margin-bottom: 10px; }
+
+h1 { font-size: 2.5em; margin: 0; color: #ff6600; }
+
+.btn { display: inline-block; margin-top: 15px; padding: 10px 25px; background-color: #ff6600; color: #fff; text-decoration: none; font-weight: bold; border-radius: 8px; transition: background-color 0.3s; }
+
+.btn:hover { background-color: #e65c00; }
+
+main.produk-section { padding: 40px 20px; max-width: 1000px; margin: auto; }
+
+.produk { background-color: #1a1a1a; border: 1px solid #ff6600; border-radius: 12px; padding: 20px; margin-bottom: 30px; box-shadow: 0 0 15px rgba(255, 102, 0, 0.4); }
+
+.produk h2 { color: #ff6600; font-size: 1.8em; margin-bottom: 10px; }
+
+.produk ul { list-style-type: square; padding-left: 20px; }
+
+.produk p { margin-top: 10px; line-height: 1.6em; }
+
+footer { background-color: #000; padding: 20px; text-align: center; font-size: 1em; color: #ccc; border-top: 2px solid #ff6600; }
+
+.description { max-width: 800px; margin: auto; }
+
